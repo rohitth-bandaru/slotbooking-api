@@ -6,7 +6,7 @@ run:
 node app.js
 
 
-api's have been verified from the postman application screenshot has been attached in the UDAAN/screenshot folder for reference.
+api's have been verified from the postman application screenshot has been attached in the screenshot folder for reference.
 
 
 //to create a class with a course i have used POST to create an empty class with defined name and capacity.
