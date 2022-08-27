@@ -21,8 +21,6 @@ in the body of the POST request syntax used is shown below
     "capacity": <capacity>
 }
 
-#####################################################################################################
-
 
 
 //enrollment of a student into the class has been done with the help of PUT request.
@@ -37,7 +35,6 @@ in the body of the POST request syntax used is shown below
 
 if capacity of the class reaches the max capacity new users will be added to the waiting list.
 
-#####################################################################################################
 
 //if a student wants to delete his enrollment then the action can be done using DELETE request
 
@@ -50,8 +47,6 @@ in the body of the POST request syntax used is shown below
 }
 
 if there are any users in waitinglist first person in the queue will be added to the enrollmentlist.
-
-#####################################################################################################
 
 // to get the details of all the classes and their internal details GET request can be used
 
